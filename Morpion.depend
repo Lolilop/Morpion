@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1509495539 source:c:\users\samue\onedrive\documents\codeblocks ide\workdspace\morpion\morpion.cpp
+	<iostream>
+	<iomanip>
+	<array>
+	<string>
+	<sstream>
+	<cstdlib>
+	<algorithm>
+	"morpion.hpp"
+
+1509494531 source:c:\users\samue\onedrive\documents\codeblocks ide\workdspace\morpion\main.cpp
+	<iostream>
+	<iomanip>
+	"morpion.hpp"
+	"menu.hpp"
+
+1509494404 c:\users\samue\onedrive\documents\codeblocks ide\workdspace\morpion\morpion.hpp
+
+1509485813 source:c:\users\samue\onedrive\documents\codeblocks ide\workdspace\morpion\menu.c
+
+1509489542 source:c:\users\samue\onedrive\documents\codeblocks ide\workdspace\morpion\menu.cpp
+	<iostream>
+	<iomanip>
+	"menu.hpp"
+
+1509488893 c:\users\samue\onedrive\documents\codeblocks ide\workdspace\morpion\menu.hpp
+
